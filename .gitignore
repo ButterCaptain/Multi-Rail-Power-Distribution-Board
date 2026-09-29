@@ -1,0 +1,19 @@
+# Claude Code guidance file
+CLAUDE.md
+
+# KiCAD lock files
+~*.kicad_sch.lck
+~*.kicad_pcb.lck
+~*.kicad_pro.lck
+*.lck
+
+# KiCAD backup and cache
+*-backups/
+.history/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup directories
+_restore_backup_*/
